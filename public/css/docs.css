@@ -10,8 +10,9 @@
 	border:1px solid grey;
 }
 
-p.project{
+.project{
 	margin-bottom:0;
+	font-size:1.4em;
 }
 
 li.current{

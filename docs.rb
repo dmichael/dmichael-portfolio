@@ -53,7 +53,7 @@ helpers do
 	def sections
 		[
       [ 'web-apps', 'Web Apps' ],
-			[ 'projects', 'Projects' ],
+			[ 'sound', 'Sound' ],
 			[ 'publications', 'Publications' ],
 
 

@@ -1,2 +1,8 @@
 Web Apps
 ===============
+
+I started working with information technologies around 1998 in New York City during the last years of my undergraduate degree in Music Technology, when the internet's possibilities were being explored, but viable business models were not (necessarily). In the beginning there were Web Sites.
+
+My education in programming happened in reverse. What started with HTML/CSS has now become a fluency in a broad array of technologies and languages grown from the seed of the internet. Almost everything I have ever programmed is a Web App in some form ... almost. 
+
+This is a list of selected Web Apps completed over the years. I have noted the technologies used in each for interest. The app you are looking at now was written in [Ruby](http://ruby-lang.org) for the [Sinatra](http://sinatrarb.com) micro-framework, using the [heroku-docs](http://github.com/heroku/heroku-docs) codebase and deployed (for the moment) on [Heroku](http://heroku.com). One person, two hours. At lot has changed since '99.

@@ -1,16 +1,26 @@
 I like to make things.
 ======================
 
+This portfolio is no exception I suppose. I have made many different versions of my portfolio over the years, each catering to a different audience. While this strategy for image control has not been unkind, it has felt schizophrenic, splitting my work into separate identities that all require maintenance.
 
-I started working with information technologies around 1998 in New York City during the last years of my undergraduate degree (in music), when the internet's possibilities had been realized, but viable business models had not.
+The truth is that my interests, pursuits, and professional life have all resulted in things. Music, code, art, papers, blog posts, recordings, hardware. So here we try something new: A unified approach to the presentation of self, and portfolio of the diverse productions I have made over the years grouped as logically as possible.
 
-My first job was an internship with a company called Sybarite which is no longer around, but who's owner went on to found LivePerson, which is.
+<br />
 
-Application developer working in various technologies with a focus on networked apps. Researcher in adaptive behavior and bioacoustics. Nature recordist.
+__Some topics informing my recent work __
 
+* Set notation finders using named scopes, service oriented architectures, and lightweight authentication & authorization in Rails
 
-What is the origin of music? 
+* Technologies for large volume, high availability datasets (Hadoop, iSCSI SAN arrays)
 
-Is non-human life only the evolutionary basis of our music, 
-or is "music" a more fundamental feature of using the acoustic channel for communications - an implicit phenomena (or epiphenomena) of bioacoustics?
+* Ecology and ecological modeling
 
+* Surround and unattended field recording techniques
+
+* Writing Java in MATLAB (JamLab)
+
+* Call-timing algorithms of frogs, toads, and insects
+
+<!-- * Is non-human life only the evolutionary basis of our music, or is "music" a more fundamental feature of using the acoustic channel for communications - an implicit phenomena (or epiphenomena) of bioacoustics? What is the origin of music?  -->
+
+<br />

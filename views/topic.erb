@@ -1,0 +1,15 @@
+<h1><%= @title %></h1>
+
+<% if @toc.size > 0 %>
+	<ul id="toc">
+		<% @toc.each do |section| %>
+			<li><a href="#<%= slugify(section) %>"><%= section %></a></li>
+		<% end %>
+	</ul>
+<% end %>
+
+<%= @content %>
+
+<% if ns = next_section(params[:topic]) %>
+	<div id="next_section">Next: <a href="/<%= ns[0] %>"><%= ns[1] %> &rarr;</a></div>
+<% end %>

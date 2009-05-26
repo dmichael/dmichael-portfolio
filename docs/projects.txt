@@ -1,0 +1,328 @@
+Projects
+========
+
+__There__  
+  
+
+<div class="section">
+	<p class="project">
+		<i><b><a href="http://scientificforestry.com">The Scientific Forestry Service</a></b></i>, 2008		
+	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+	</p>
+	<p>
+		The Scientific Forestry Service is an audio label releasing long-form natural soundscapes, documenting the Earth's biophony, and exposing the musical structures of non-human organisms using the acoustic channel.
+	</p>
+
+	<p>
+	  <img align="left" alt="Scify002" class="music_image" src="/images/scify002.jpg?1237664806" width="150" />
+		<i><b><a href="http://scientificforestry.com/releases/SCIFY002" target="_blank">The Beaver Ponds in Clanton</a></b></i>, SCIFY002<br><br>
+	  Its early June in Clanton, Alabama. Huge choruses of frogs and toads soak the early evening with syncopation against the backdrop of cicadas and evening songbirds.  	
+	</p>
+  <br />
+
+	<p>
+	  <img align="left" alt="Scify001" src="/images/scify001.jpg?1237664603"  class="music_image"  width="150" />
+    <i><b><a href="http://scientificforestry.com/releases/SCIFY001" target="_blank">American Toad Chorus</a></b></i>, SCIFY001
+    <br/>			<br/>
+	  American Toads harmonize around a small pond in Ithaca, New York. The chorus is joined by Green Frogs and Spring Peepers. Pickerels are hiding in the reeds
+	</p>
+
+	<br />
+	<ul class="playlist" style="margin-left:10px;">
+		<li style="border-bottom:1px solid #eee;">
+			<div style="float: left; margin-right: 10px;">
+			<img src="/images/listen.gif" width="22"/>
+			</div>
+			<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/birdvoiced-treefrog-clanton_edit1_1.mp3">SCIFY002 excerpt</a>
+		</li>
+
+		<li style="border-bottom:1px solid #eee;">
+			<div style="float: left; margin-right: 10px;">
+			<img src="/images/listen.gif" width="22"/>
+			</div>
+			<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/scyfi001-sample.mp3">SCIFY001 excerpt</a>
+		</li>
+		</ul>
+		<div style="margin-bottom:30px;"></div> 
+
+	
+	<p class="project">
+
+	  <i><b>Artificial Anuran Chorus</b></i>, 2007
+	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+	</p>
+	<p>
+	    <img align="left" alt="Prototype" src="/images/prototype.jpg?1237665060"  class="music_image"  width="150" />
+			An artiﬁcial anuran chorus is built by simulating a population of signalers and their spatial distributions. 
+			This project emphasizes of the use of Artificial 
+			Life models in music as a literal imitation of nature.		
+			<br />
+
+			<br />
+			Pine log, embedded computer, custom software.
+			<ul class="playlist" style="width:450px;margin-left:170px;">
+
+				<li style="border-bottom:1px solid #eee;">
+					<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+					</div>
+					<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/artificial_anuran_chorus.mp3">Artificial Anuran Chorus</a>
+				</li>
+	  </ul>
+	  <br />
+
+	</p>
+	<div style="margin-bottom:30px;"></div> 
+
+
+
+
+	<p class="project">
+		<i><b>C&eacute;line: "Elapsed Time"</b></i>, M-tronic/U-pop, 2006
+	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+	</p>
+	<p>
+
+	  <img align="left" alt="Elapsedtimecover" src="/images/elapsedtimecover.jpg?1237660249"  class="music_image" width="150" />
+
+	  <!--  
+	    This record is a compilation of collaborative works undertaken by C&eacute;line Lambert between 2000 and 2005 with support from The Record Camp Label, <a href="http://www.m-tronic.com" target="_blank" class="bold">M-tronic</a>, and <a href="http://www.artuniongroup.co.jp/index.html" target="_blank" class="bold">Art Union Corporation</a>. Appearances by Miles Tillman, Mr Projectile, Funckarma, Ulrich Schnauss, Sky Tucker, nkh, and Xela. Below are collaborations with David Michael for !hksint'l. Mastering by <a href="http://www.audibleoddities.com/index.php?p=mast" target="_blank">Twerk</a>. 
+	  -->
+		A pop-electronic collaboration between vocalist C&eacute;line Lambert and a battery of producers including Nate Harrison (NKH), Funckarma, Ulrich Schnauss, EU, Mr Projectile, Displacer and David Michael.
+		Produced between 2001 and 2004 with support from The Record Camp Label and T&ouml;sh&ouml;klabs.
+	</p>
+		<p style="margin-left:8px;">
+ 			The following tracks were composed, written, recorded, and produced by David Michael with vocals written and performed by C&eacute;line Lambert unless otherwise noted.
+			
+
+		<ul class="playlist" style="margin-left:10px;">
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/celine_colors.mp3">Colors</a>
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/celine_lovely.mp3">Lovely</a>
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/In%20The%20Sun.mp3">In The Sun</a> 
+				Music by Mr. Projectile, vocal recording and production by David Michael
+			</li>
+
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Daydream%20(feat%20Xela).mp3">Daydream</a> 
+				Music by Xela, vocal recording and production by David Michael
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Interlude1.mp3">Interlude 1</a>
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Interlude2.mp3">Interlude 2</a>
+			</li>
+  </ul>
+</p>
+
+
+<div style="margin-bottom:30px;"></div> 
+
+	<p class="project">
+
+		<i><b>I'm OK, You're OK</b></i>, !hksint'l, 2004
+	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+
+	</p>
+
+	<p style="margin-left:8px;">
+	  <img align="left" alt="Selected Linear" src="/images/selected_linear_sm.jpg?1237660249" style="margin-right:10px;border:1px solid grey;" width="150" height="150" />
+
+			An album of linear electronic works that make it OK.
+			<br><br>
+			All tracks produced at the Sideman Estate and Hablab, STP Studios Brooklyn 2001-2003. 
+	        <br>
+	        &copy; &amp; P 2003 !hksint'l/DanzAmerica ASCAP 
+	</p>
+
+<br><br><br>
+		
+	<p style="margin-top:-10px;">
+
+		<ul class="playlist" style="margin-left:10px;">
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+	      <a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Say%20Yes.mp3">Say Yes</a>
+
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/The%20Growth%20Imperative%20(Sussex%20Mix).mp3">The Growth Imperative</a>
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/A%20Shrinking%20Ocean.mp3">A Shrinking Ocean</a>
+				Appeared on MTV's The Real World
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Untitled.mp3">Untitled</a>
+				Composed for the Bitstreams Exhibition, Whitney Museum of American Art
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Snow.mp3">Snow</a>
+
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Charlie.mp3">Sonya and Charlie</a>
+			</li>
+			<li style="border-bottom:1px solid #eee;">
+
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Goon.mp3">The Goon</a>
+			</li>
+			<!-- <li style="border-bottom:1px solid #eee;">
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Dreemz.mp3">Dreemz</a>
+			</li> -->
+
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/Rosebud.mp3">Rosebud</a>
+			</li>
+			<!-- <li style="border-bottom:1px solid #eee;">
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/AI.mp3">A.I. </a>
+			</li> -->
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/China.mp3">His Name is Dave, Too</a>
+			</li>
+
+			
+  </ul>
+	</p>
+
+	<div style="margin-bottom:30px;"></div> 
+
+
+
+
+
+
+	<p class="project">
+
+		<i><b>All Over Me: The 3-Way Maxi-Single</b></i>, 2003
+	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+	</p>
+	<p>
+	  <img align="left" alt="Recordcamp" src="/images/recordcamp.jpg?1237660249" style="margin-right:10px;border:1px solid grey;" width="150" />      
+	  R&amp;B before JT. Original version available on <a href="http://www.recordcamp.com" target="_blank">The Record Camp Label</a>'s "Brooklyn Keeps on Takin It" 
+	  <br>
+	  &copy; &amp; P 2003 !hksint'l/DanzAmerica ASCAP 
+	
+	  </p>
+
+	  <br>
+	  <br>	  
+		<br>
+		<br>
+		<br>
+	</p>
+	
+	<ul class="playlist" style="margin-left:10px;">
+		<li style="border-bottom:1px solid #eee;">
+			<div style="float: left; margin-right: 10px;">
+
+				<img src="/images/listen.gif" width="22"/>
+			</div>
+			<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/unisex.mp3">Unisex</a>
+			Featuring Justin G. Recorded and produced by Danz99.
+		</li>
+		<li style="border-bottom:1px solid #eee;">
+			<div style="float: left; margin-right: 10px;">
+				<img src="/images/listen.gif" width="22"/>
+			</div>
+
+			<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/all_over_me.mp3">All Over Me </a>
+			Featuring Danz99. Recorded and produced by Danz99.
+		</li>
+		<li style="border-bottom:1px solid #eee;">
+			<div style="float: left; margin-right: 10px;">
+				<img src="/images/listen.gif" width="22"/>
+			</div>
+			<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/all_over_me_instr.mp3">All Over Me (instrumental)</a>
+
+			Original version, written and produced by David Michael.
+		</li>
+	</ul>
+
+	<div style="margin-bottom:30px;"></div> 
+
+<p class="project">
+	<i><b>Jay Salino : "Here Is"</b></i>, Statra Recordings, 2001
+	<div style="border-bottom:1px solid #ddd;"></div>
+	</p>
+	<p>
+
+		<ul class="playlist" style="margin-left:10px;">
+			<li style="border-bottom:1px solid #eee;">
+				<div style="float: left; margin-right: 10px;">
+					<img src="/images/listen.gif" width="22"/>
+				</div>
+				<a href="#" sound="http://s3.amazonaws.com/files.scientificforestry.com/mp3/here_is.mp3">Here Is: Adult Contemporary Remix</a>
+			</li>
+		</ul>
+
+		<p style="margin-left:8px;">
+
+	Co-produced with Nick Chacona (Pool Party, Statra, Mood Music) 
+	<br />
+	   Produced at 262 E 2nd. Mixed and mastered at the Sideman Estate. 
+	   <br>
+	   &copy; &amp; P 2001 Statra Recordings ASCAP 
+	</p>
+<div style="margin-bottom:50px;"></div> 
+	<!--   "... the highlight of the record has to be Chacona and Michael's "Adult Contemporary" Mix. Taking the original and adding just the right amount of Tech-House flavor makes this track perfect for any occasion. Statra keeps pumping out the quality, and I keep gobbling it up." - www.selekta.com 
+	-->
+    
+	</p>

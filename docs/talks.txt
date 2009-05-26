@@ -1,0 +1,7 @@
+Invited talks
+=============
+
+* "Ruby Meet World: an introduction to programming the Arduino with Ruby", NYC.rb, 2008
+* "Artificial Anuran Choruses", Music and Artificial Life (MusicAL) Workshop, as part of the European Conference on Artificial Life, Lisbon Portugal, 2007
+* "Musical Automata as Dynamical Systems", Workshop on Agents and Dynamical Systems, as part of the European Conference on Artificial Life, Canterbury UK, 2005
+* "Youth 2 Youth Program", Whitney Museum of American Art, New York, 2001

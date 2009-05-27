@@ -76,8 +76,7 @@ helpers do
       [ 'web-apps', 'Web Apps' ],
       [ 'sound', 'Sound' ],
       [ 'publications', 'Publications' ],
-
-
+      [ 'performance', 'Performance' ],
       [ 'talks', 'Invited Talks' ],
       [ 'education', 'Education' ],
     ]

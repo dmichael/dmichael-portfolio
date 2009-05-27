@@ -1,10 +1,10 @@
 Publications
 ===============
 
-Michael, David M., [_Artificial Anuran Choruses_](), Proceedings of the Workshop on Music and Artificial Life, Eighth Annual European Conference on Artificial Life.
+Michael, David M., [Artificial Anuran Choruses](), Proceedings of the Workshop on Music and Artificial Life, Eighth Annual European Conference on Artificial Life.
 
-Michael, David M., [_Musical automata as dynamical systems_](), Adaptive Behavior, Vol. 14, No. 2, 139-146 (2006)
+Michael, David M., [Musical automata as dynamical systems](http://adb.sagepub.com/cgi/content/abstract/14/2/139), Adaptive Behavior, Vol. 14, No. 2, 139-146 (2006)
 
-Michael, David M., [_Experimental synthetic birdsong, musical automata as dynamical systems_](), European Conference of Artificial Life supplemental materials.
+Michael, David M., [Experimental synthetic birdsong, musical automata as dynamical systems](), European Conference of Artificial Life supplemental materials.
 
-Michael, David M., [_Evolved neural dynamics for synthetic birdsong_](), MSc Thesis, University of Sussex, Brighton UK.
+Michael, David M., [Evolved neural dynamics for synthetic birdsong](), MSc Thesis, University of Sussex, Brighton UK.

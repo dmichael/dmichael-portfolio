@@ -48,9 +48,7 @@ end
 helpers do
   def render_topic(topic)
     begin
-      if ENV['RACK_ENV'] == "development"
-        last_commit
-      end
+      last_commit
     rescue
     end
 
@@ -66,11 +64,11 @@ helpers do
   def last_commit
     $repo = Repo.new(".")
 
-    FileUtils.mkdir_p 'log' unless File.exists?('log')
-    #log = File.new("log/commit.log", "a")
+    #FileUtils.mkdir_p 'log' unless File.exists?('log')
+    log = File.new("docs/commit.txt", "a")
 
     doc = $repo.commits.last.date
-    File.open("log/commit.log", 'w') {|f| f.write(doc) }
+    File.open("docs/commit.txt", 'w') {|f| f.write(doc) }
   end
 
   def sections

@@ -53,8 +53,8 @@ helpers do
       end
     rescue
     end
-    $stderr << "#{options.root}/log/commit.log"
-    @last_commit = File.read("#{options.root}/log/commit.log")
+
+    @last_commit = File.read(topic_file("commit"))
     source = File.read(topic_file(topic))
     @content = markdown(source)
     @title, @content = title(@content)

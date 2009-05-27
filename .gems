@@ -1,2 +1,2 @@
 rdiscount
-mojombo-grit
+mojombo-grit --source git://github.com/mojombo/grit.git

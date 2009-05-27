@@ -53,7 +53,7 @@ helpers do
       end
     rescue
     end
-    @last_commit = File.open("log/commit.log").readlines
+    @last_commit = File.open(File.dirname(__FILE__) + "/log/commit.log").readlines
     source = File.read(topic_file(topic))
     @content = markdown(source)
     @title, @content = title(@content)

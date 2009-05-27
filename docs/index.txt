@@ -7,6 +7,14 @@ So here we try something new: A unified approach to the presentation of self, a 
 
 <br />
 
+__I currently maintain identity on a few other networks.__  
+
+Read my [Web log](http://davidmichael.tumblr.com), because Twitter is too connected.  
+Examine my [professional resume](http://linkedin.com/in/davidmmichael) on LinkedIn.  
+Browse my [code](http://github.com/dmichael) on GitHub.
+
+<br />
+
 __Some topics informing my recent work __
 
 * Set notation finders using named scopes, service oriented architectures, and lightweight authentication & authorization in Rails

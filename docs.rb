@@ -80,7 +80,6 @@ helpers do
 
       [ 'talks', 'Invited Talks' ],
       [ 'education', 'Education' ],
-      [ 'network', 'Network' ],
     ]
   end
   

@@ -1,8 +1,36 @@
 Web Apps
 ===============
 
-I started working with information technologies around 1998 in New York City during the last years of my undergraduate degree in Music Technology, when the internet's possibilities were being explored, but viable business models were not (necessarily). In the beginning there were Web Sites.
+I started working with information technologies around 1998 in New York City during the last years of my undergraduate degree in music. In the beginning there were Web Sites.
 
-My education in programming happened in reverse. What started with HTML/CSS has now become a fluency in a broad array of technologies and languages grown from the seed of the internet. Almost everything I have ever programmed is a Web App in some form ... almost. 
+<!-- My education in programming happened in reverse. From self-taught informal to . What started with HTML and CSS has turned into a general interest in programming languages. Almost everything I have ever programmed is a Web App in some form ... almost.  -->
 
-This is a list of selected Web Apps completed over the years. I have noted the technologies used in each for interest. The app you are looking at now was written in [Ruby](http://ruby-lang.org) for the [Sinatra](http://sinatrarb.com) micro-framework, using the [heroku-docs](http://github.com/heroku/heroku-docs) codebase and deployed (for the moment) on [Heroku](http://heroku.com). One person, two hours. At lot has changed since '99.
+This is a list of recent Web Apps. I have noted the technologies used in each for interest. The app you are looking at now was written in [Ruby](http://ruby-lang.org) for the [Sinatra](http://sinatrarb.com) micro-framework, using the [heroku-docs](http://github.com/heroku/heroku-docs) codebase and deployed (for the moment) on [Heroku](http://heroku.com). One person, two hours. At lot has changed since '98.
+
+BioAcoustic Resource Network
+----------------------------
+> [barn.xbat.org &rarr;]()  
+> [Cornell Lab of Ornithology](http://birds.cornell.edu), [Bioacoustics Research Program](http://www.birds.cornell.edu/brp/)  
+> 2009  
+
+> ####Description
+> The Bioacoustic Resource Network (BARN) project develops tools to support the creation of networked annotated sound libraries. The goal is to accelerate progress and collaboration in bioacoustics research.
+
+> The BARN project emerged at the Bioacoustics Research Program of the Cornell Lab of Ornithology to support our ever growing sound annotation and collaboration efforts.
+
+> ####Technologies
+> Matlab, Java, Ruby on Rails, libsndfile, VMWare, Linux, Nginx/Passenger  
+> The entire codebase is Open Source and is available from the Google Code [repository](http://code.google.com/p/xbat-devel/).
+
+We Are Nature Recordists
+----------------------------
+> [naturerecordists.com &rarr;]()  
+
+Sling.com
+----------------------------
+> [sling.com &rarr;]()  
+> A coproduction of Diversion Media and Sling Media
+
+ForexMatch
+----------------------------
+> GFI

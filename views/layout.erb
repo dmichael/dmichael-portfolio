@@ -14,10 +14,12 @@
 <div id="banner">  
   <div class="page" style="text-align:left;background:#DDD;">
     <div>  
-      <div style="font-size:24px;margin-bottom:0px;"><a href="/">David Michael</a></div>
+      <div style="font-size:1.7em;margin-bottom:0px;"><a href="/" style="">David Michael</a>
+      <%= $repo.commits.last.date %>
+      </div>
     </div>
 
-    <div style="float:left;margin-left:-180px;margin-top:40px;text-align:right;">
+    <div style="float:left;margin-left:-190px;margin-top:50px;text-align:right;">
   	  <ul id="docsnav" style="list-style:none;">
     		<% sections.each do |slug, title| %>
     			<% if params[:topic] == slug %>
@@ -33,7 +35,7 @@
 
 
 <div id="container" style="background: url(/images/dropshadow.gif) top right repeat-x;">  
-  <div class="page" style="background: #FFF url(/images/dropshadow.gif) top right repeat-x;">
+  <div class="page" style="background: #FFF url(/images/dropshadow.gif) top right repeat-x;padding:20px;">
     
   	<br />
   	

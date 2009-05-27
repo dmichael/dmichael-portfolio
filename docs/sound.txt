@@ -4,11 +4,14 @@ Sound
 Sound as a medium is a very rich place to work.
 The following are selected sound-based works, past and present, spanning 
 
+The Scientific Forestry Service 
+-------------------------------
+
 <div class="section">
-	<p class="project">
-		<i><b><a href="http://scientificforestry.com">The Scientific Forestry Service</a></b></i>, 2008		
-	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
-	</p>
+	<!-- <p class="project">
+	   <i><b><a href="http://scientificforestry.com">The Scientific Forestry Service</a></b></i>, 2008   
+	   <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+	 </p> -->
 	<p>
 		The Scientific Forestry Service is an audio label releasing long-form natural soundscapes, documenting the Earth's biophony, and exposing the musical structures of non-human organisms using the acoustic channel.
 	</p>

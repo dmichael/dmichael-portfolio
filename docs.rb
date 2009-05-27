@@ -1,6 +1,11 @@
 require 'rubygems'
 require 'sinatra'
 require 'rdiscount'
+require 'grit'
+
+include Grit
+
+$repo = Repo.new("./")
 
 root_dir = File.dirname(__FILE__)
 

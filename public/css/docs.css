@@ -55,18 +55,19 @@ h1, h2, h3, h4, h5, h6 {
     color:#333333;
 }
 h1 {
-    font-size: 2.1em;
+    font-size: 2.2em;
 		margin-bottom:30px;
 
 }
 
 #main h2, #content h2 {
-    border-bottom: solid 1px black;
-    font-size: 1.7em;
-    line-height: 130%;
+    border-bottom: solid 1px #ccc;
+    font-size: 1.6em;
+    line-height: 120%;
 }
 #content h2 {
     margin: 32px 5px 8px 0px;
+color:#222;
 }
 #main h3, #content h3 {
     font-size: 24px;
@@ -78,10 +79,9 @@ h1 {
 }
 
 #content h4 {
-    font-size:20px;
-		
+    font-size:18px;
     margin: 18px 5px 10px 0px;
-    border-bottom: solid 1px #CCC;
+		color:black;
 }
 
 #content h5 {
@@ -90,16 +90,17 @@ h1 {
 
 strong, em {
     font-size: 1.1em;
+		color:black;
 }
 a img {
     border: 0;
 }
 blockquote {
-    font-style: italic;
-    font-size: larger;
+/*    font-style: italic;*/
+/*    font-size: larger;*/
   
     color: #435;
-    margin: 0 75px;
+    margin: 0 75px 0 30px;
 }
 blockquote .attrib {
     display: block;
@@ -283,7 +284,7 @@ a.darkbar:hover {
 #banner {
     background-color: #DDDDDD;
     border-bottom: solid 1px #ddd;
-    padding: 12px;
+    padding: 13px;
     margin: 0;
 		margin-bottom:0px;
 }
@@ -306,7 +307,7 @@ a.darkbar:hover {
 
 #content {
     text-align: left;
-    
+		line-height: 111%;
 }
 .pageTitle {
     line-height: 200%;

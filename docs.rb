@@ -47,10 +47,13 @@ end
 
 helpers do
   def render_topic(topic)
-    if ENV['RACK_ENV'] = "development"
-      last_commit
-      @last_commit = File.open("log/commit.log").readlines
+    begin
+      if ENV['RACK_ENV'] = "development"
+        last_commit
+      end
+    rescue
     end
+    @last_commit = File.open("log/commit.log").readlines
     source = File.read(topic_file(topic))
     @content = markdown(source)
     @title, @content = title(@content)

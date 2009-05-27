@@ -5,7 +5,7 @@ I started working with information technologies around 1998 in New York City dur
 
 <!-- My education in programming happened in reverse. From self-taught informal to . What started with HTML and CSS has turned into a general interest in programming languages. Almost everything I have ever programmed is a Web App in some form ... almost.  -->
 
-This is a list of recent Web Apps. I have noted the technologies used in each for interest. The app you are looking at now was written in [Ruby](http://ruby-lang.org) for the [Sinatra](http://sinatrarb.com) micro-framework, using the [heroku-docs](http://github.com/heroku/heroku-docs) codebase and deployed (for the moment) on [Heroku](http://heroku.com). One person, two hours. At lot has changed since '98.
+This is a list of recent Web Apps. I have noted the technologies used in each for interest. The app you are looking at now was written in [Ruby](http://ruby-lang.org) for the [Sinatra](http://sinatrarb.com) micro-framework, using the [heroku-docs](http://github.com/heroku/heroku-docs) codebase and deployed (for the moment) on [Heroku](http://heroku.com). One person, two hours. A lot has changed since '98.
 
 BioAcoustic Resource Network
 ----------------------------

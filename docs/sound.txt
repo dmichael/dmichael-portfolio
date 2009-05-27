@@ -5,14 +5,17 @@ Sound as a medium is a very rich place to work.
 The following are selected sound-based works, past and present, spanning 
 
 
-The Scientific Forestry Service 
+The Scientific Forestry Service
 -------------------------------
+[scientificforestry.com](http://scientificforestry.com)  
+Long-form nature recording label, 2009  
+
 
 <div class="section">
-	<!-- <p class="project">
-	   <i><b><a href="http://scientificforestry.com">The Scientific Forestry Service</a></b></i>, 2008   
-	   <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
-	 </p> -->
+  <!-- <p class="project">
+     <i><b><a href="http://scientificforestry.com">The Scientific Forestry Service</a></b></i>, 2008   
+     <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+   </p> -->
 	<p>
 		The Scientific Forestry Service is an audio label releasing long-form natural soundscapes, documenting the Earth's biophony, and exposing the musical structures of non-human organisms using the acoustic channel.
 	</p>
@@ -49,12 +52,18 @@ The Scientific Forestry Service
 		</ul>
 		<div style="margin-bottom:30px;"></div> 
 
-	
-	<p class="project">
+</div>
 
-	  <i><b>Artificial Anuran Chorus</b></i>, 2007
-	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
-	</p>
+
+Artificial Anuran Choruses
+-------------------------------
+
+<div class="section">
+	
+  <!-- <p class="project">
+    <i><b>Artificial Anuran Chorus</b></i>, 2007
+    <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+  </p> -->
 	<p>
 	    <img align="left" alt="Prototype" src="/images/prototype.jpg?1237665060"  class="music_image"  width="150" />
 			An artiﬁcial anuran chorus is built by simulating a population of signalers and their spatial distributions. 
@@ -63,7 +72,7 @@ The Scientific Forestry Service
 			<br />
 
 			<br />
-			Pine log, embedded computer, custom software.
+			2007. Pine log, embedded computer, custom software.
 			<ul class="playlist" style="width:450px;margin-left:170px;">
 
 				<li style="border-bottom:1px solid #eee;">
@@ -79,12 +88,20 @@ The Scientific Forestry Service
 	<div style="margin-bottom:30px;"></div> 
 
 
+</div>
 
 
-	<p class="project">
-		<i><b>C&eacute;line: "Elapsed Time"</b></i>, M-tronic/U-pop, 2006
-	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
-	</p>
+C&eacute;line, "Elapsed Time"
+-------------------------------
+M-tronic/U-pop, 2006
+
+<div class="section">
+
+
+  <!-- <p class="project">
+    <i><b>C&eacute;line: "Elapsed Time"</b></i>, M-tronic/U-pop, 2006
+    <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+  </p> -->
 	<p>
 
 	  <img align="left" alt="Elapsedtimecover" src="/images/elapsedtimecover.jpg?1237660249"  class="music_image" width="150" />
@@ -149,12 +166,22 @@ The Scientific Forestry Service
 
 <div style="margin-bottom:30px;"></div> 
 
-	<p class="project">
 
-		<i><b>I'm OK, You're OK</b></i>, !hksint'l, 2004
-	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+</div>
 
-	</p>
+
+I'm OK, You're OK
+-------------------------------
+!hksint'l, 2004
+
+<div class="section">
+
+<!--  <p class="project">
+
+    <i><b>I'm OK, You're OK</b></i>, !hksint'l, 2004
+    <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+
+  </p> -->
 
 	<p style="margin-left:8px;">
 	  <img align="left" alt="Selected Linear" src="/images/selected_linear_sm.jpg?1237660249" style="margin-right:10px;border:1px solid grey;" width="150" height="150" />
@@ -251,13 +278,20 @@ The Scientific Forestry Service
 
 
 
+</div>
 
 
-	<p class="project">
+All Over Me: The 3-Way Maxi-Single
+-------------------------------
+2003
 
-		<i><b>All Over Me: The 3-Way Maxi-Single</b></i>, 2003
-	  <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
-	</p>
+<div class="section">
+
+  <!-- <p class="project">
+
+    <i><b>All Over Me: The 3-Way Maxi-Single</b></i>, 2003
+    <div style="border-bottom:1px solid #ddd;margin-bottom:5px;"></div>
+  </p> -->
 	<p>
 	  <img align="left" alt="Recordcamp" src="/images/recordcamp.jpg?1237660249" style="margin-right:10px;border:1px solid grey;" width="150" />      
 	  R&amp;B before JT. Original version available on <a href="http://www.recordcamp.com" target="_blank">The Record Camp Label</a>'s "Brooklyn Keeps on Takin It" 
@@ -302,10 +336,20 @@ The Scientific Forestry Service
 
 	<div style="margin-bottom:30px;"></div> 
 
-<p class="project">
-	<i><b>Jay Salino : "Here Is"</b></i>, Statra Recordings, 2001
-	<div style="border-bottom:1px solid #ddd;"></div>
-	</p>
+
+</div>
+
+
+Jay Salino, "Here Is"
+-------------------------------
+Statra Recordings, 2001
+
+<div class="section">
+  
+<!-- <p class="project">
+  <i><b>Jay Salino : "Here Is"</b></i>, Statra Recordings, 2001
+  <div style="border-bottom:1px solid #ddd;"></div>
+  </p> -->
 	<p>
 
 		<ul class="playlist" style="margin-left:10px;">

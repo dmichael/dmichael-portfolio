@@ -5,7 +5,7 @@ require 'grit'
 
 include Grit
 
-$repo = Repo.new("./")
+$repo = Repo.new(".")
 
 root_dir = File.dirname(__FILE__)
 

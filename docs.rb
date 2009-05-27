@@ -48,7 +48,7 @@ end
 helpers do
   def render_topic(topic)
     begin
-      if ENV['RACK_ENV'] = "development"
+      if ENV['RACK_ENV'] == "development"
         last_commit
       end
     rescue

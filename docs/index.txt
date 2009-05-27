@@ -1,9 +1,9 @@
-I like to make things.
+Hello world
 ======================
 
-This portfolio is no exception I suppose. I have made many different versions of my portfolio over the years, each catering to a different audience. While this strategy for image control has not been unkind, it has felt schizophrenic, splitting my work into separate identities that all require maintenance.
+I have made many different versions of my portfolio over the years, each catering to a different audience. While this strategy for image control has not been unkind, it has felt schizophrenic, splitting my work into separate identities that all require maintenance.
 
-The truth is that my interests, pursuits, and professional life have all resulted in things. Music, code, art, papers, blog posts, recordings, hardware. So here we try something new: A unified approach to the presentation of self, a portfolio of the diverse productions I have made over the years grouped as logically as possible.
+So here we try something new: A unified approach to the presentation of self, a portfolio of the diverse productions I have made over the years grouped as logically as possible.
 
 <br />
 
